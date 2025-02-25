@@ -33,7 +33,8 @@ To utilize the OnPlayerHurtSoundPlugin, follow these steps:
 
 ## Contribution and Support
 
-We encourage community contributions. For suggestions or to report issues, please submit a pull request or open an issue on the [GitHub repository](https://github.com/hlymc/nOnPlayerHurtSoundPlugin). Your input is crucial for the ongoing development of the plugin.
+We encourage community contributions. 
+For suggestions or to report issues, please submit a pull request or open an issue on the [GitHub repository](https://github.com/hlymc/nOnPlayerHurtSoundPlugin). Your input is crucial for the ongoing development of the plugin.
 
 ## License
 
